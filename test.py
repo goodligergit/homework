@@ -1,2 +1,1 @@
-testsdfsdfdsfdsfsdsdfdsfsdfsfsfsd
-sdfdsfdsfsfdsd
+print('hello world')
